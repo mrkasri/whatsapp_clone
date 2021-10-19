@@ -4,7 +4,7 @@ Building a WhatsApp Clone in Flutter.
 
 ## Screenshots
 
-This project is a starting point for a Flutter application.
+![alt text](https://github.com/mrkasri/whatsapp_clone/blob/master/images/avatar/screenshot.png?raw=true)
 
 
 ## License
