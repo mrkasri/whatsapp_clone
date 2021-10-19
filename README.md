@@ -2,6 +2,11 @@
 
 Building a WhatsApp Clone in Flutter.
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
 ## Screenshots
 
 ![alt text](https://github.com/mrkasri/whatsapp_clone/blob/master/images/avatar/screenshot.png?raw=true)
