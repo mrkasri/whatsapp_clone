@@ -6,6 +6,9 @@ Building a WhatsApp Clone in Flutter.
 
 This project is a starting point for a Flutter application.
 
+
+## License
+
 Copyright 2021 Mohammed KASRI
 
 Licensed under the Apache License, Version 2.0 (the "License");
