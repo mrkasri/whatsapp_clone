@@ -1,8 +1,8 @@
-# whatsapp_clone
+# Flutter WhatsAppClone Home Page and Chat Page UI
 
-A new Flutter project.
+Building a WhatsApp Clone in Flutter.
 
-## Getting Started
+## Screenshots
 
 This project is a starting point for a Flutter application.
 
