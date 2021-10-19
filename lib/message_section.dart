@@ -10,11 +10,11 @@ class MessageSection extends StatelessWidget {
    final List messages = [
     
     {'senderName': 'Prof', 'senderProfile': 'images/avatar/p5.jpg', 'Message' : 'Hello', 'unRead':0, 'date': '14:33' },
-    {'senderName': 'TEK', 'senderProfile': 'images/avatar/p6.jpg', 'Message' : 'Hello, how are you', 'unRead':2, 'date': '10:33'},
     {'senderName': 'Warda', 'senderProfile': 'images/avatar/p1.jpg', 'Message' : 'Vous avez de la chance', 'unRead':5, 'date': '11:00'},
     {'senderName': 'Simo', 'senderProfile': 'images/avatar/p2.jpg', 'Message' : 'Hello, comment va tue', 'unRead':3, 'date': '09:30'},
-    {'senderName': 'Wiame', 'senderProfile': 'images/avatar/p3.jpg', 'Message' : 'Bonjour', 'unRead':1, 'date': '1205'},
+    {'senderName': 'Wiame', 'senderProfile': 'images/avatar/p3.jpg', 'Message' : 'Bonjour', 'unRead':1, 'date': '12:05'},
     {'senderName': 'Jamal', 'senderProfile': 'images/avatar/p4.jpg', 'Message' : 'Hello', 'unRead':0, 'date': '12:33'},
+    {'senderName': 'TEK', 'senderProfile': 'images/avatar/p6.jpg', 'Message' : 'Hello, how are you', 'unRead':2, 'date': '10:33'},
   ];
 
    MessageSection({Key? key}) : super(key: key);
