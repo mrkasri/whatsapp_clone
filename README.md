@@ -6,8 +6,8 @@ Building a WhatsApp Clone in Flutter.
 
 ## Screenshots
 
-![alt text](https://github.com/mrkasri/whatsapp_clone/blob/master/images/avatar/screenshot.png | width = 100)
-<img src="https://github.com/mrkasri/whatsapp_clone/blob/master/images/avatar/screenshot.pnge" width="100">
+![screenshot](https://user-images.githubusercontent.com/31214118/137866482-995786bf-0d07-414a-8e62-fc5ea04def40.png width=100)
+
 
 ## License
 
