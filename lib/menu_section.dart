@@ -1,4 +1,4 @@
-import 'package:flutter/gestures.dart';
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -15,7 +15,7 @@ class MenuSection extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: dBlack,
-      height: 100,
+      height: 80,
       // ignore: prefer_const_constructors
       child: SingleChildScrollView(
         scrollDirection: Axis.horizontal,

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:whatsapp_clone/favorite_section.dart';
 import 'package:whatsapp_clone/menu_section.dart';
+import 'package:whatsapp_clone/message_section.dart';
 
 const dGreen = Color(0xFF2ac0a6);
 const dWhite = Colors.white;
@@ -38,9 +39,7 @@ class HomePage extends StatelessWidget {
           MenuSection(),
           FavSection(),
           Expanded(
-              child: Container(
-            color: Colors.redAccent,
-          ))
+              child: MessageSection())
         ],
       ),
       floatingActionButton: FloatingActionButton(
