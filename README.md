@@ -1,4 +1,4 @@
-# Flutter WhatsAppClone Home Page UI
+# Flutter WhatsApp Clone Home Page UI
 
 Building a WhatsApp Clone in Flutter.
 
